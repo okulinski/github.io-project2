@@ -1,0 +1,128 @@
+/* Shared Style */
+
+body {
+    margin-left: 10px;
+}
+
+nav ul {
+    margin-left: -10px;
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    gap: 2rem;
+    background-color: rgb(255, 233, 189);
+}
+
+img {
+    display: block;
+    margin: 0 auto;
+}
+
+/* Home Page */
+
+/* Style 1 */
+.home-page h1,
+.home-page h2,
+.home-page h3 {
+    color: #55066f;
+    font-weight: bold;
+}
+
+/* Style 2 */
+.home-page p {
+    color: rgb(81, 0, 110);
+    line-height: 2;
+}
+
+/* Style 3 */
+.home-page img {
+    border-radius: 8px;
+    opacity: 0.8;
+    width: 60%;
+    height: auto;
+}
+
+/* Style 4 */
+.home-page {
+  background-color: #999ce9 !important;
+  font-family:'Times New Roman', Times, serif;
+}
+
+/* Style 5 */
+.home-page main {
+    width: 90%;
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 2rem;
+}
+
+
+/* Career Page */
+
+/* Style 1 */
+.career-page h1,
+.career-page h2,
+.career-page h3 {
+    color: #001a83;
+    font-weight: bold;
+}
+
+/* Style 2 */
+.career-page main {
+    width: 90%;
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 2rem;
+}
+
+/* Style 3 */
+.career-page p {
+    color: black;
+    line-height: 2;
+}
+
+/* Style 4 */
+body.career-page {
+  max-width: 3000px;
+}
+
+/* Style 5 */
+.career-page {
+    background-color: #93c2ff !important;
+    font-family:'Times New Roman', Times, serif;
+}
+
+/* Resume Page */
+
+/* Style 1 */
+.resume-page h1,
+.resume-page h2,
+.resume-page h3 {
+    color: #963500;
+    font-weight: bold;
+}
+
+/* Style 2 */
+.resume-page main {
+    width: 90%;
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 2rem;
+}
+
+/* Style 3 */
+.resume-page p {
+    color: black;
+    line-height: 2;
+}
+
+/* Style 4 */
+body.resume-page {
+  max-width: 3000px;
+}
+
+/* Style 5 */
+.resume-page {
+    background-color: #ffc391 !important;
+    font-family:'Times New Roman', Times, serif;
+}
