@@ -25,12 +25,14 @@ img {
 .home-page h2,
 .home-page h3 {
     color: #2e003e;
+    font-family: "Galada", cursive;
     font-weight: bold;
 }
 
 /* Style 2 */
 .home-page p {
     color: rgb(42, 0, 58);
+    font-family: "Galada", cursive;
     line-height: 2;
 }
 
@@ -49,13 +51,22 @@ img {
 }
 
 /* Style 5 */
-.home-page main {
+.destinations{
+    font-family: "Galada", cursive;
     width: 90%;
     max-width: 1200px;
     margin: 0 auto;
     padding: 2rem;
 }
 
+.home-page h4 {
+  margin-left: 5%;
+  font-family: "Tangerine", cursive;
+  font-size: 30px;
+  font-weight: 700;
+  font-style: normal;
+
+}
 
 /* Career Page */
 
@@ -72,7 +83,7 @@ img {
     width: 90%;
     max-width: 1200px;
     margin: 0 auto;
-    padding: 2rem;
+    padding: 0 2rem 2rem 2rem;
 }
 
 /* Style 3 */
