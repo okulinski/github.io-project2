@@ -24,13 +24,13 @@ img {
 .home-page h1,
 .home-page h2,
 .home-page h3 {
-    color: #55066f;
+    color: #2e003e;
     font-weight: bold;
 }
 
 /* Style 2 */
 .home-page p {
-    color: rgb(81, 0, 110);
+    color: rgb(42, 0, 58);
     line-height: 2;
 }
 
@@ -44,7 +44,7 @@ img {
 
 /* Style 4 */
 .home-page {
-  background-color: #999ce9 !important;
+  background-color: #d1affa !important;
   font-family:'Times New Roman', Times, serif;
 }
 
@@ -88,7 +88,7 @@ body.career-page {
 
 /* Style 5 */
 .career-page {
-    background-color: #93c2ff !important;
+    background-color: #b6d5ff !important;
     font-family:'Times New Roman', Times, serif;
 }
 
@@ -98,7 +98,7 @@ body.career-page {
 .resume-page h1,
 .resume-page h2,
 .resume-page h3 {
-    color: #963500;
+    color: #4f1c00;
     font-weight: bold;
 }
 
@@ -123,6 +123,6 @@ body.resume-page {
 
 /* Style 5 */
 .resume-page {
-    background-color: #ffc391 !important;
+    background-color: #ffd5b2 !important;
     font-family:'Times New Roman', Times, serif;
 }
